@@ -1,6 +1,6 @@
 # Sistema de Análise de Qualidade de Máquinas
 
-[🇧🇷 Português](#pt) | [🇺🇸 English](#en)
+[🇧🇷 Português](#pt) | [🇬🇧 English](#en)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -34,7 +34,7 @@ Projeto extracurricular desenvolvido no IFSul, focado na criação de um sistema
 
 ---
 
-## 🇺🇸 <a name="en"></a>English
+## 🇬🇧 <a name="en"></a>English
 
 Extracurricular project developed at IFSul, focused on creating a system for analyzing and monitoring the quality of industrial machines.
 
