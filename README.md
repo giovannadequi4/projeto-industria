@@ -4,10 +4,11 @@
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
 
 ---
 
@@ -18,7 +19,7 @@ Projeto extracurricular desenvolvido no IFSul, focado na criação de um sistema
 ### Tecnologias Utilizadas
 
 - **Front-end:** React.js (interfaces responsivas e dinâmicas)  
-- **Back-end:** Java com Spring Framework (APIs REST)  
+- **Back-end:** Java com SpringBoot (APIs REST)  
 - **DevOps:** Conteinerização com Docker para ambientes consistentes e portáveis  
 - **Gerenciamento Ágil:** Kanban e Sprints, utilizando Trello para organização e acompanhamento das tarefas  
 - **UX/UI:** Prototipação de telas e validação de fluxos com Figma, com feedback de professores e usuários
@@ -40,7 +41,7 @@ Extracurricular project developed at IFSul, focused on creating a system for ana
 ### Technologies Used
 
 - **Front-end:** React.js (responsive and dynamic interfaces)  
-- **Back-end:** Java with Spring Framework (REST APIs)  
+- **Back-end:** Java with Spring Boot (REST APIs)  
 - **DevOps:** Docker containerization for consistent and portable environments  
 - **Agile Management:** Kanban and Sprints, using Trello for task organization and tracking  
 - **UX/UI:** Screen prototyping and flow validation with Figma, with feedback from professors and users
