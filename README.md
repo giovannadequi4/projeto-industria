@@ -44,7 +44,7 @@ Extracurricular project developed at IFSul, focused on creating a system for ana
 
 - **Front-end:** React.js (responsive and dynamic interfaces)  
 - **Back-end:** Java with Spring Boot (REST APIs)
-- **Mensageria:** MQTT
+- **Asynchronous messaging:** MQTT
 - **DevOps:** Docker containerization for consistent and portable environments  
 - **Agile Management:** Kanban and Sprints, using Trello for task organization and tracking  
 - **UX/UI:** Screen prototyping and flow validation with Figma, with feedback from professors and users
