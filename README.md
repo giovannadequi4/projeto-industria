@@ -14,12 +14,13 @@
 
 ## 🇧🇷 <a name="pt"></a>Português
 
-Projeto extracurricular desenvolvido no IFSul, focado na criação de um sistema para análise e monitoramento da qualidade de máquinas industriais.
+Projeto extracurricular desenvolvido no IFSul como bolsista, focado na criação de um sistema para análise e monitoramento da qualidade de máquinas industriais.
 
 ### Tecnologias Utilizadas
 
 - **Front-end:** React.js (interfaces responsivas e dinâmicas)  
-- **Back-end:** Java com SpringBoot (APIs REST)  
+- **Back-end:** Java com SpringBoot (APIs REST)
+- **Mensageria:** MQTT
 - **DevOps:** Conteinerização com Docker para ambientes consistentes e portáveis  
 - **Gerenciamento Ágil:** Kanban e Sprints, utilizando Trello para organização e acompanhamento das tarefas  
 - **UX/UI:** Prototipação de telas e validação de fluxos com Figma, com feedback de professores e usuários
@@ -41,7 +42,8 @@ Extracurricular project developed at IFSul, focused on creating a system for ana
 ### Technologies Used
 
 - **Front-end:** React.js (responsive and dynamic interfaces)  
-- **Back-end:** Java with Spring Boot (REST APIs)  
+- **Back-end:** Java with Spring Boot (REST APIs)
+- **Mensageria:** MQTT
 - **DevOps:** Docker containerization for consistent and portable environments  
 - **Agile Management:** Kanban and Sprints, using Trello for task organization and tracking  
 - **UX/UI:** Screen prototyping and flow validation with Figma, with feedback from professors and users
